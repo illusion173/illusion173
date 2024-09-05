@@ -3,6 +3,7 @@
 I am Jeremiah Webb, a software engineer developer specializing in cybersecurity and full-stack cloud development on AWS and Azure. I am currently pursuing my bachelors and masters in Computer Science.
 <br>
 For Career Inquires, please see my [LinkedIn](https://www.linkedin.com/in/illusjw/)
+To see my hacking blog and some writing about my projects, check out my [personal website](https://illusion173.github.io/).
 
 <!--
 **illusion173/illusion173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
