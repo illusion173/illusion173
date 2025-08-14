@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jeremiah Webb, a specialist solutions architect at AWS.
+I am Jeremiah Webb, a security specialist solutions architect at AWS.
 Embry-Riddle Aeronautical University Bachelors and Masters Alumni in Computer Science. 🦅🦅🦅
 Raised in FL.
 
